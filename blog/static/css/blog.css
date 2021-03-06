@@ -34,6 +34,12 @@ h4 {
     width: 100%;
 }
 
+.top-menu p a !important{
+  text-decoration: none;
+  font-family: 'Lobster', cursive;
+  color: #f1f1f1;
+}
+
 .top-menu,
 .top-menu:hover,
 .top-menu:visited {
